@@ -1,0 +1,9 @@
+[package]
+name = "ayudame_wrapper"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+#rs_events = { path = "../../rust-ayudame/Ayudame/src/rs_events/" }
